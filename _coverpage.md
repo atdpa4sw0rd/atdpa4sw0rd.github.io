@@ -8,4 +8,4 @@
 
 
 [主页](https://atdpa4sw0rd.github.io/)
-[进入用户手册](/README.md)
+[进入](/README.md)
